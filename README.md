@@ -2,16 +2,16 @@
 This repo is a survey for: Neural Architecture Search &amp; Auto Model Compress
 
 
-  ## AutoML:
-    Survey:
+  ## AutoML
+    Survey
     
-  ## Neural Architecture Search:
-    ### Survey:
+  ## Neural Architecture Search
+  ### Survey
         2019 Neural architecture search：A survey.pdf
         2021 A Survey on Evolutionary Neural Architecture Search.pdf
         2021 深度神经网络结构搜索综述.pdf
         2020 A Comprehensive Survey of Neural Architecture Search Challenges and Solutions.pdf
-    ### Method:
+  ### Method
         2017 Connectivity Learning in Multi-Branch Networks.pdf
         2017 Genetic cnn.pdf
         2017 Large-scale evolution of Image Classifiers.pdf
@@ -127,10 +127,10 @@ This repo is a survey for: Neural Architecture Search &amp; Auto Model Compress
         2021 Zen-NAS：A Zero Shot NAS for High Performance Image Recognition.pdf
         2021 Zero-Cost Proxies for LightWeight NAS.pdf
         2021 μNAS：Constrained Neural Architecture Search for Microcontrollers.pdf
-    Benchmark:
+  ### Benchmark:
         2019 NAS-Bench-101：Towards Reproducible Neural Architecture Search.pdf
         2021 NAS-HPO-Bench-II：A Benchmark Dataset on Joint Optimization of Convolutional Neural Network Architecture and Training Hyperparameters.pdf
-    Application in other fields:
+  ### Application in other fields:
         2019 Auto-deeplab：Hierarchical neural architecture search for Semantic Image Segmentation.pdf
         2019 Auto-FPN：Automatic Network Architecture Adaptation for Object Detection Beyond Classification.pdf
         2019 AutoGAN：Neural architecture search for generative adversarial networks.pdf
@@ -142,12 +142,12 @@ This repo is a survey for: Neural Architecture Search &amp; Auto Model Compress
         2021 Object Point Cloud Classification via Poly-Convolutional Architecture Search.pdf
         2021 Pyramid Architecture Search for Real-Time Image Deblurring.pdf
 
-  Hyperparameter Optimization：
+  ## Hyperparameter Optimization：
   
-  Auto Model Compress:
-    Survey:
+  ## Auto Model Compress
+  ### Survey
     
-    Method:
+  ### Method
         2017 N2N learning：Network to Network Compression Via Policy Gradient Reinforcement Learning.pdf
         2018 AMC：AutoML for Model Compression and Acceleration on Mobile Devices.pdf
         2018 Layer-compensated pruning for resource-constrained convolutional neural networks.pdf
