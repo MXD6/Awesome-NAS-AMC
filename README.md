@@ -3,15 +3,16 @@ This repo is a survey for: Neural Architecture Search &amp; Auto Model Compress
 
 
 ## AutoML
-    Survey
-    
-## Neural Architecture Search
 ### Survey
-2019 Neural architecture search：A survey.pdf
-2021 A Survey on Evolutionary Neural Architecture Search.pdf
-2021 深度神经网络结构搜索综述.pdf
-2020 A Comprehensive Survey of Neural Architecture Search Challenges and Solutions.pdf
-### Method
+    2021 AutoML：A Survey of the State-of-the-Art
+    2021 AutoML：From Methodology to Application
+## 一、Neural Architecture Search
+### 1.Survey
+    2019 Neural architecture search：A survey.pdf
+    2021 A Survey on Evolutionary Neural Architecture Search.pdf
+    2021 深度神经网络结构搜索综述.pdf
+    2020 A Comprehensive Survey of Neural Architecture Search Challenges and Solutions.pdf
+### 2.Method
     2017 Connectivity Learning in Multi-Branch Networks.pdf
     2017 Genetic cnn.pdf
     2017 Large-scale evolution of Image Classifiers.pdf
@@ -127,10 +128,10 @@ This repo is a survey for: Neural Architecture Search &amp; Auto Model Compress
     2021 Zen-NAS：A Zero Shot NAS for High Performance Image Recognition.pdf
     2021 Zero-Cost Proxies for LightWeight NAS.pdf
     2021 μNAS：Constrained Neural Architecture Search for Microcontrollers.pdf
-    ### Benchmark:
+### 3.Benchmark:
     2019 NAS-Bench-101：Towards Reproducible Neural Architecture Search.pdf
     2021 NAS-HPO-Bench-II：A Benchmark Dataset on Joint Optimization of Convolutional Neural Network Architecture and Training Hyperparameters.pdf
-    ### Application in other fields:
+### 4.Application in other fields:
     2019 Auto-deeplab：Hierarchical neural architecture search for Semantic Image Segmentation.pdf
     2019 Auto-FPN：Automatic Network Architecture Adaptation for Object Detection Beyond Classification.pdf
     2019 AutoGAN：Neural architecture search for generative adversarial networks.pdf
@@ -142,52 +143,52 @@ This repo is a survey for: Neural Architecture Search &amp; Auto Model Compress
     2021 Object Point Cloud Classification via Poly-Convolutional Architecture Search.pdf
     2021 Pyramid Architecture Search for Real-Time Image Deblurring.pdf
 
-## Hyperparameter Optimization：
+## 二、Hyperparameter Optimization：
 
-## Auto Model Compress
-### Survey
+## 三、Auto Model Compress
+### 1.Survey
 
-### Method
-2017 N2N learning：Network to Network Compression Via Policy Gradient Reinforcement Learning.pdf
-2018 AMC：AutoML for Model Compression and Acceleration on Mobile Devices.pdf
-2018 Layer-compensated pruning for resource-constrained convolutional neural networks.pdf
-2018 Learning to Prune Filters in Convolutional Neural Networks.pdf
-2018 Netadapt：Platform-Aware Neural Network Adaptation for Mobile Applications.pdf
-2019 AutoPruner：An End-to-End Trainable Filter Pruning Method for Efficient Deep Model Inference.pdf
-2019 AutoPrune：Automatic Network Pruning by Regularing Auxiliary Parameters.pdf
-2019 Efficient structured pruning and architecture searching for group convolution.pdf
-2019 HAQ：Hardware-Aware Automated Quantization with Mixed Precision.pdf
-2019 Meta filter pruning to accelerate deep convolutional neural networks.pdf
-2019 Metapruning：Meta learning for automatic neural network channel pruning.pdf
-2019 TAS：Network Pruning via Transformable Architecture Search.pdf
-2020 ABCPruner：Channel Pruning via Automatic Structure Search.pdf
-2020 APQ：Joint Search for Network Architecture, Pruning and Quantization Policy.pdf
-2020 AutoCompress：An automatic DNN structured pruning framework for ultra-high compression rates.pdf
-2020 AutoGAN-Distiller：Searching to Compress Generative Adversarial Network.pdf
-2020 Automatic Neural Network Compression by Sparsity-Quantization Joint Learning：A Constrained Optimization-based Approach.pdf
-2020 Automatic Pruning for Quantized Neural Networks.pdf
-2020 AutoML for Architecting Efficient and Specialized Neural Networks.pdf
-2020 DAIS：Automatic Channel Pruning via Differentiable Annealing Indicator Search.pdf
-2020 DMCP：Differentiable Markov Channel Pruning for Neural Networks.pdf
-2020 Learning Filter Pruning Criteriafor Deep Convolutional Neural Networks Acceleration.pdf
-2020 SS-Auto：A Single-Shot, Automatic Structured Weight Pruning Framework of DNNs with Ultra-High Efficiency.pdf
-2020 Towards Efficient Model Compression via Learned Global Ranking.pdf
-2021 AACP：Model Compression by Accurate and Automatic Channel Pruning.pdf
-2021 ABCP：Automatic Block-wise and Channel-wise Network Pruning via Joint Search.pdf
-2021 ACP：Automatic Channel Pruning via Clustering ans Swarm Intelligence Optimization for CNN.pdf
-2021 AdaBERT：Task-Adaptive BERT Compression with Differentiable Neural Architecture Search.pdf
-2021 An Information Theory-inspired Strategy for Automatic Network Pruning.pdf
-2021 Auto-prune：Automated DNN Pruning and Mapping for ReRAM-Based Accelerator.pdf
-2021 AutoKD：Automatic Knowledge Distillation into A Student Architecture Family.pdf
-2021 AutoLR：Layer-wise Pruning and Auto-tuning of Learning Rates in Fine-tuning of Deep Networks.pdf
-2021 Automated Model Compression by Jointly Applied Pruning and Quantization.pdf
-2021 Automatic Channel Pruning with Hyper-parameter Search and Dynamic Masking.pdf
-2021 Boosting the Convergence of Reinforcement Learning-based Auto-pruning Using Historical Data.pdf
-2021 CACP：Conditional Automated Channel Pruning for Deep Neural Networks.pdf
-2021 CACP：Conditional Automated Channel Pruning for Deep Neural Networks（全）.pdf
-2021 Joint  Channel and  Weight  Pruning for  Model Acceleration on Mobile Devices.pdf
-2021 Network Automatic Pruning：Start NAP and Take a Nap.pdf
-2021 Pocketflow：An automated framework for compressing and accelerating Deep Neural Networks.pdf
-2021 SuperPruner：Automatic Neural Network Pruning via Super Network.pdf
-2021 Where to Prune：Using LSTM to Guide Data-Dependent Soft Pruning.pdf
+### 2.Method
+    2017 N2N learning：Network to Network Compression Via Policy Gradient Reinforcement Learning.pdf
+    2018 AMC：AutoML for Model Compression and Acceleration on Mobile Devices.pdf
+    2018 Layer-compensated pruning for resource-constrained convolutional neural networks.pdf
+    2018 Learning to Prune Filters in Convolutional Neural Networks.pdf
+    2018 Netadapt：Platform-Aware Neural Network Adaptation for Mobile Applications.pdf
+    2019 AutoPruner：An End-to-End Trainable Filter Pruning Method for Efficient Deep Model Inference.pdf
+    2019 AutoPrune：Automatic Network Pruning by Regularing Auxiliary Parameters.pdf
+    2019 Efficient structured pruning and architecture searching for group convolution.pdf
+    2019 HAQ：Hardware-Aware Automated Quantization with Mixed Precision.pdf
+    2019 Meta filter pruning to accelerate deep convolutional neural networks.pdf
+    2019 Metapruning：Meta learning for automatic neural network channel pruning.pdf
+    2019 TAS：Network Pruning via Transformable Architecture Search.pdf
+    2020 ABCPruner：Channel Pruning via Automatic Structure Search.pdf
+    2020 APQ：Joint Search for Network Architecture, Pruning and Quantization Policy.pdf
+    2020 AutoCompress：An automatic DNN structured pruning framework for ultra-high compression rates.pdf
+    2020 AutoGAN-Distiller：Searching to Compress Generative Adversarial Network.pdf
+    2020 Automatic Neural Network Compression by Sparsity-Quantization Joint Learning：A Constrained Optimization-based Approach.pdf
+    2020 Automatic Pruning for Quantized Neural Networks.pdf
+    2020 AutoML for Architecting Efficient and Specialized Neural Networks.pdf
+    2020 DAIS：Automatic Channel Pruning via Differentiable Annealing Indicator Search.pdf
+    2020 DMCP：Differentiable Markov Channel Pruning for Neural Networks.pdf
+    2020 Learning Filter Pruning Criteriafor Deep Convolutional Neural Networks Acceleration.pdf
+    2020 SS-Auto：A Single-Shot, Automatic Structured Weight Pruning Framework of DNNs with Ultra-High Efficiency.pdf
+    2020 Towards Efficient Model Compression via Learned Global Ranking.pdf
+    2021 AACP：Model Compression by Accurate and Automatic Channel Pruning.pdf
+    2021 ABCP：Automatic Block-wise and Channel-wise Network Pruning via Joint Search.pdf
+    2021 ACP：Automatic Channel Pruning via Clustering ans Swarm Intelligence Optimization for CNN.pdf
+    2021 AdaBERT：Task-Adaptive BERT Compression with Differentiable Neural Architecture Search.pdf
+    2021 An Information Theory-inspired Strategy for Automatic Network Pruning.pdf
+    2021 Auto-prune：Automated DNN Pruning and Mapping for ReRAM-Based Accelerator.pdf
+    2021 AutoKD：Automatic Knowledge Distillation into A Student Architecture Family.pdf
+    2021 AutoLR：Layer-wise Pruning and Auto-tuning of Learning Rates in Fine-tuning of Deep Networks.pdf
+    2021 Automated Model Compression by Jointly Applied Pruning and Quantization.pdf
+    2021 Automatic Channel Pruning with Hyper-parameter Search and Dynamic Masking.pdf
+    2021 Boosting the Convergence of Reinforcement Learning-based Auto-pruning Using Historical Data.pdf
+    2021 CACP：Conditional Automated Channel Pruning for Deep Neural Networks.pdf
+    2021 CACP：Conditional Automated Channel Pruning for Deep Neural Networks（全）.pdf
+    2021 Joint  Channel and  Weight  Pruning for  Model Acceleration on Mobile Devices.pdf
+    2021 Network Automatic Pruning：Start NAP and Take a Nap.pdf
+    2021 Pocketflow：An automated framework for compressing and accelerating Deep Neural Networks.pdf
+    2021 SuperPruner：Automatic Neural Network Pruning via Super Network.pdf
+    2021 Where to Prune：Using LSTM to Guide Data-Dependent Soft Pruning.pdf
   
