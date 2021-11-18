@@ -4,7 +4,7 @@ This repo is a survey for: Neural Architecture Search &amp; Auto Model Compress
 
 ## AutoML
 ### Survey
-    * 2021 AutoML：A Survey of the State-of-the-Art
+* 2021 AutoML：A Survey of the State-of-the-Art
     * 2021 AutoML：From Methodology to Application
 ## 一、Neural Architecture Search
 ### 1.Survey
